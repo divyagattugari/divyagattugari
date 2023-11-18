@@ -6,7 +6,7 @@
 
 🎓 I hold a Bachelor's degree in Computer Science from Keshav Memorial Institute of Technology.
 
-💼 Proficient in SQL | EXCEL | TABLEAU | POWER BI.
+💼 Proficient in SQL | EXCEL | POWER BI | TABLEAU.
 
 💻 An ardent advocate for data-driven decision-making, always ready to create impactful data visualizations.
 
